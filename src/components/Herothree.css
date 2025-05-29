@@ -1,0 +1,90 @@
+.herothree-main {
+    font-family: 'Arial', sans-serif;
+    background: #fff;
+    box-sizing: inherit;
+}
+
+.main-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 120px;
+    height: auto;
+    padding: 40px 40px;
+}
+
+.main-content {
+    max-width: 500px;
+}
+
+.main-content h4 {
+    padding-bottom: 16px;
+    text-transform: uppercase;
+
+}
+
+.main-content h1 {
+    padding-bottom: 18px;
+    font-size: 32px;
+    font-weight: 600;
+}
+
+.main-content p {
+    padding-bottom: 28px;
+}
+
+li {
+    list-style-type: none;
+    font-size: 16px;
+    font-weight: 600;
+}
+
+ul .list-one {
+    padding-bottom: 16px;
+
+}
+
+ul .list-two {
+    padding-bottom: 16px;
+
+}
+
+ul .list-three {
+    padding-bottom: 16px;
+
+}
+
+.buttons {
+    display: flex;
+    gap: 20px;
+    transition: background-color 0.3s ease;
+}
+
+.btnone {
+    background-color: #6e38f7;
+    color: white;
+    padding: 12px 24px;
+    border: none;
+    border-radius: 25px;
+    font-weight: 400;
+    font-size: 16px;
+    cursor: pointer;
+
+}
+
+.btntwo {
+    background: none;
+    color: #1e0a3c;
+    border: none;
+    padding: 12px 24px;
+    font-size: 14px;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+/* .right-image {
+    border-radius: 10px;
+    width: 500px;
+    height: auto;
+    object-fit: cover
+} */

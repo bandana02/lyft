@@ -1,0 +1,67 @@
+.herotwo-main {
+    background-color: #f4f4fa;
+    box-sizing: inherit;
+}
+
+.container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 80px 80px;
+    margin: 80px 128px;
+    gap: 60px;
+    height: auto;
+}
+
+content {
+    flex: 1;
+    max-width: 500px;
+}
+
+.content h1 {
+    font-size: 32px;
+    font-weight: 800;
+    margin-bottom: 14px;
+    color: #1e0a3c;
+
+}
+
+.content p {
+    display: flex;
+    gap: 20px;
+    margin-bottom: 16px;
+}
+
+.buttons {
+    display: flex;
+    gap: 20px;
+    transition: background-color 0.3s ease;
+}
+
+button.primary {
+    background-color: #6e38f7;
+    color: white;
+    padding: 12px 24px;
+    border: none;
+    border-radius: 25px;
+    font-size: 16px;
+    cursor: pointer;
+
+}
+
+button.secondary {
+    background: none;
+    border: none;
+    color: #1e0a3c;
+    font-weight: bold;
+    cursor: pointer;
+    font-size: 14px;
+}
+
+.image {
+
+    border-radius: 10px;
+    width: 500px;
+    height: auto;
+    object-fit: cover
+}
