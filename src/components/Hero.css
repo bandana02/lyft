@@ -5,6 +5,7 @@
     padding: 80px 40px;
     background-color: white;
     gap: 60px;
+    font-family: 'Segoe UI', sans-serif;
 }
 
 .hero-content {
@@ -19,6 +20,7 @@
 }
 
 .hero-content p {
+    font-family: ProximaNova, sans-serif;
     color: #333;
     margin-bottom: 24px;
     font-size: 16px;

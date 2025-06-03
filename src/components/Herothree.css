@@ -72,6 +72,10 @@ ul .list-three {
 
 }
 
+.btnone:hover {
+    background-color: #6a2fd8;
+}
+
 .btntwo {
     background: none;
     color: #1e0a3c;
@@ -81,10 +85,3 @@ ul .list-three {
     font-weight: bold;
     cursor: pointer;
 }
-
-/* .right-image {
-    border-radius: 10px;
-    width: 500px;
-    height: auto;
-    object-fit: cover
-} */
