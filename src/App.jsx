@@ -6,6 +6,10 @@ import Herofour from './components/Herofour';
 import RideOptions from './components/RideOptions';
 import Herofive from './components/Herofive';
 import Herosix from './components/Herosix';
+import Heronext from './components/Heronext';
+import Herolast from './components/Herolast';
+import Footer from './components/Footer';
+
 
 
 function App() {
@@ -20,6 +24,9 @@ function App() {
       <RideOptions />
       <Herofive />
       <Herosix />
+      <Heronext />
+      <Herolast />
+      <Footer />
     </div>
   );
 }

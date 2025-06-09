@@ -4,7 +4,7 @@ import "./Hero.css";
 function Hero() {
     return (
         <section className="hero">
-            <img src="/src/assets/car.jpg" alt="image" />
+            <img src="/src/assets/car.jpg" alt="image1" />
 
             <div className="hero-content">
                 <h1>Let's ride</h1>

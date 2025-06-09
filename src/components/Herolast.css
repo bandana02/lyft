@@ -1,0 +1,80 @@
+.herolast-main {
+    /* background-color: #f4f4fa; */
+    box-sizing: inherit;
+    font-family: 'Segoe UI', sans-serif;
+    padding-bottom: 20px;
+    /* border-bottom: 1px solid black; */
+    background: linear-gradient(to top, #eeefe7 0%, #f4f4fa 5%, #fff 10%);
+    background-color: black;
+
+
+}
+
+.herolast-container {
+    padding: 40px 60px;
+    margin: 80px 80px;
+
+}
+
+/* .hero-conetnt {
+    height: 500px;
+    height: auto;
+} */
+
+.herolast-content h1 {
+    font-size: 38px;
+    font-weight: 600;
+    margin-bottom: 48px;
+
+}
+
+
+.image-section {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    cursor: pointer;
+    /* flex: 1;
+    max-width: 500px; */
+
+}
+
+.qr1 img {
+    object-fit: cover;
+    width: 500px;
+    height: auto;
+}
+
+.image-last img {
+    object-fit: cover;
+    width: 500px;
+    height: auto;
+}
+
+.qr1 p {
+    margin-top: 14px;
+    margin-bottom: 38px;
+}
+
+.image-last p {
+    margin-top: 14px;
+    margin-bottom: 38px;
+}
+
+.qr1 button {
+    font-size: 14px;
+    font-weight: bold;
+    border: none;
+    cursor: pointer;
+    color: #0c0b31;
+
+}
+
+.image-last button {
+    font-size: 14px;
+    font-weight: bold;
+    border: none;
+    cursor: pointer;
+    color: #0c0b31;
+
+}

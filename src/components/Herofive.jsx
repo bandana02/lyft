@@ -13,7 +13,7 @@ function Herofive() {
 
                     <div className="buttons">
                         <button className="first">Get started today</button>
-                        <button className="second">Explore solutions →</button>
+                        <button className="second">Explore solutions → </button>
                     </div>
                 </div>
                 <div className="hero-image">

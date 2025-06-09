@@ -1,0 +1,43 @@
+.heronext-main {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 80px 80px;
+    margin: 80px 80px;
+    gap: 60px;
+}
+
+.heronext-content h1 {
+    font-size: 36px;
+    font-family: LyftProUI, sans-serif;
+    font-weight: 600;
+    color: #0c0b31;
+    margin-bottom: 18px;
+}
+
+.heronext-content p {
+    margin-bottom: 28px;
+    font-family: ProximaNova, sans-serif;
+}
+
+.heronext-content button {
+    font-size: 14px;
+    font-weight: bold;
+    border: none;
+    cursor: pointer;
+    background: none;
+    color: #1e0a3c;
+    transition: background-color 0.3s ease;
+    line-height: 20px;
+    font-family: ProximaNova, sans-serif;
+
+
+}
+
+
+.image-next img {
+    object-fit: cover;
+    width: 400px;
+    height: 300px;
+
+}
