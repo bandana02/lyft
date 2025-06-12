@@ -1,4 +1,4 @@
-import './Herothree.css';
+import './style.css';
 
 
 function Herothree() {
@@ -14,7 +14,7 @@ function Herothree() {
 
                     </p>
 
-                    <ul clssName="features">
+                    <ul className="features">
                         <li className="list-one">✅ Get a reliable ride in minutes</li>
                         <li className="list-two">📅 Schedule your ride in advance</li>
                         <li className="list-three">🎁 Earn rewards on every ride</li>
@@ -22,7 +22,7 @@ function Herothree() {
                     </ul>
                     <div className="buttons">
                         <button className="btnone">Sign up to ride</button>
-                        <button className="btntwo">Learn more about riding with lyft→</button>
+                        <button className="btntwo">Learn more about riding with lyft  →</button>
 
                     </div>
                 </div>

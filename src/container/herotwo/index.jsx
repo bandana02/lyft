@@ -1,5 +1,5 @@
-import './Herotwo.css';
-
+import './style.css';
+import Button from "../../component/button"
 function Herotwo() {
     return (
         <section className="herotwo-main">
@@ -12,8 +12,8 @@ function Herotwo() {
                         instantly whenever you want.</p>
 
                     <div className="buttons">
-                        <button className="primary">Apply to drive</button>
-                        <button className="secondary">Learn more about <br /> earnings →</button>
+                        <Button >Apply to drive</Button>
+                        <button className="secondary">Learn more about <br /> earnings &nbsp; →</button>
                     </div>
                 </div>
 

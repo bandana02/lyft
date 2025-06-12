@@ -1,5 +1,5 @@
 .herothree-main {
-    font-family: 'Arial', sans-serif;
+    font-family: ProximaNova, sans-serif;
     background: #fff;
     box-sizing: inherit;
 }
@@ -20,16 +20,21 @@
 .main-content h4 {
     padding-bottom: 16px;
     text-transform: uppercase;
+    font-family: ProximaNova, sans-serif;
 
 }
 
 .main-content h1 {
     padding-bottom: 18px;
-    font-size: 32px;
+    font-size: 36px;
     font-weight: 600;
+    font-family: LyftProUI, sans-serif;
+    ;
 }
 
 .main-content p {
+    padding-bottom: 16px;
+    font-family: ProximaNova, sans-serif;
     padding-bottom: 28px;
 }
 
@@ -37,20 +42,22 @@ li {
     list-style-type: none;
     font-size: 16px;
     font-weight: 600;
+    color: #0c0b31;
+
 }
 
 ul .list-one {
-    padding-bottom: 16px;
+    padding-bottom: 18px;
 
 }
 
 ul .list-two {
-    padding-bottom: 16px;
+    padding-bottom: 18px;
 
 }
 
 ul .list-three {
-    padding-bottom: 16px;
+    padding-bottom: 48px;
 
 }
 
@@ -61,7 +68,7 @@ ul .list-three {
 }
 
 .btnone {
-    background-color: #6e38f7;
+    background-color: #523be4;
     color: white;
     padding: 12px 24px;
     border: none;

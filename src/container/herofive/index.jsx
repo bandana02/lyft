@@ -1,4 +1,4 @@
-import './Herofive.css';
+import './style.css';
 
 
 function Herofive() {

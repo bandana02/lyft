@@ -1,7 +1,6 @@
 .footer-main {
     font-family: ProximaNova, sans-serif;
     margin: 0px 80px;
-    /* background-color: #f9f9fc; */
     padding: 60px 60px 20px;
     font-size: 14px;
     color: #1e1e1e;
@@ -53,19 +52,19 @@
 
 }
 
-.footer-list {
-    min-width: unset;
-}
-
-.buttons {
+.footer-buttons {
     gap: 20px;
+    display: flex;
     flex-direction: column;
 }
 
-.buttons button {
+.footer-buttons button {
+
     padding: 10px 20px;
     border-radius: 30px;
     border: none;
     font-size: 14px;
     font-weight: bold;
+    /* flex-direction: column; */
+
 }

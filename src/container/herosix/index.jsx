@@ -1,4 +1,4 @@
-import "./Herosix.css";
+import "./style.css";
 
 
 function Herosix() {

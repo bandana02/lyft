@@ -1,4 +1,4 @@
-import "./footer.css";
+import "./style.css";
 import { FaFacebook, FaInstagram, FaTwitter } from "react-icons/fa";
 
 function Footer() {
@@ -58,7 +58,7 @@ function Footer() {
 
                 </div>
                 <div className="footer-list">
-                    <div className="buttons">
+                    <div className="footer-buttons">
                         <button className="footer-btnone">
                             Lyft driver app
                         </button>

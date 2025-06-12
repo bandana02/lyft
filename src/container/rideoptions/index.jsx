@@ -1,6 +1,6 @@
 import React, { useRef, useState, useEffect } from "react";
-import './RideOptions.css'
-import image1 from "../assets/whitecar.jpg";
+import './style.css'
+import image1 from "../../assets/whitecar.jpg";
 
 const rideData = [
     {

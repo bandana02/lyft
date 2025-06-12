@@ -5,7 +5,7 @@
     padding: 80px 40px;
     background-color: white;
     gap: 60px;
-    font-family: 'Segoe UI', sans-serif;
+    font-family: ProximaNova, sans-serif;
 }
 
 .hero-content {
@@ -13,8 +13,10 @@
 }
 
 .hero-content h1 {
-    font-size: 48px;
-    font-weight: 800;
+
+    font-size: 36px;
+    font-weight: 600;
+    font-family: LyftProUI, sans-serif;
     margin-bottom: 16px;
     color: #111827;
 }
@@ -24,24 +26,9 @@
     color: #333;
     margin-bottom: 24px;
     font-size: 16px;
-    line-height: 1.6;
+    /* border: 1px solid red; */
 }
 
-.hero-content button {
-    background-color: #7c4dff;
-    color: white;
-    padding: 12px 28px;
-    border-radius: 24px;
-    font-weight: bold;
-    font-size: 16px;
-    border: none;
-    cursor: pointer;
-    transition: background-color 0.3s ease;
-}
-
-.hero-content button:hover {
-    background-color: #5f2eea;
-}
 
 .hero img {
     width: 500px;

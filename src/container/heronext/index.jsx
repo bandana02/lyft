@@ -1,4 +1,4 @@
-import './Heronext.css';
+import './style.css';
 
 function Heronext() {
     return (
